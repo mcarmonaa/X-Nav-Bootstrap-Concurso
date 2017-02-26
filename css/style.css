@@ -26,6 +26,11 @@ p {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
 @media (min-width: 768px) {
     p {
         margin: 0 0 35px;
